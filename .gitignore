@@ -1,8 +1,8 @@
 # Use glob syntax.
 syntax: glob
 
-*.DS_Store
-*.swp
+ .DS_Store
+#.swp
 *.swo
 *.pyc
 *.php~
@@ -18,3 +18,4 @@ example/public/*
 example/deployment/*
 example/go-selfupdate
 *cktime
+ 
